@@ -191,8 +191,7 @@ Lcd_string(&lcd, "YUVARAJ");
 
 
 ## Output screen shots of proteus  :
-
-![Uploading image.png…]()
+![WhatsApp Image 2025-05-26 at 14 57 57_1a3ab275](https://github.com/user-attachments/assets/d790ebec-a4a0-4db3-8f3e-efd651e1860b)
 
 
 
