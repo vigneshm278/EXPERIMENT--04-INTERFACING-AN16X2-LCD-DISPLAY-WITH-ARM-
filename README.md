@@ -192,8 +192,8 @@ Lcd_string(&lcd, "YUVARAJ");
 
 ## Output screen shots of proteus  :
 
+![Uploading image.png…]()
 
-![image](https://github.com/user-attachments/assets/dc98b15d-8f49-4f43-b913-f343812dcc39)
 
 
  
